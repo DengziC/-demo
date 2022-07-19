@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "free asset ,share by bilibili lilia https://b23.tv/pTrWgqu",
+	"Plugins": [
+		{
+			"Name": "ProjectCleaner",
+			"Enabled": true,
+			"MarketplaceURL": "https://b23.tv/pTrWgqu"
+		}
+	]
+}
