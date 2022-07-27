@@ -19,12 +19,12 @@ Developed with Unreal Engine 4.27.2
 ③闪避后角色面朝闪避后方向**  
 
 ## 内容说明
-### Config文件夹
+### 一. Config 文件夹
 --内部配置了基本操作映射，后续如果有更改的话可以覆盖push。  
-### Content文件夹
-#### ParagonWraith
+### 二. Content 文件夹
+#### 1. ParagonWraith 文件夹
 --主要包含了主角用到的材质、纹理。
-#### 主角
+#### 2. 主角 文件夹
 --含主角的角色蓝图*最终主角_BP*与动画蓝图*最终主角_AnimBlueprint*，以及游戏模式*BaseDemo_GameMode*。  
 --**Character** 主要包含双手剑主角的骨骼。  
 --**Maps** 含测试地图。  
